@@ -1,6 +1,6 @@
 /* General Styles */
 #home{
-  background-image: url("C:\Users\RISINA\Downloads\img4.jpg");
+  background-image: url("./img4.jpg");
   background-size: cover; /* Cover the entire area */
   background-repeat: no-repeat; /* Prevent tiling */
   background-position: center; /* Center the image */
